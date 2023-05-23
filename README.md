@@ -1,2 +1,2 @@
 # HackerBox 0091: Fibonacci Spiral LED
-![Spiral LED PCB](Spiral LED PCB/0091 Spiral PCB.jpg)
+[HackerBox 0091 Product Page](https://hackerboxes.com/products/hackerbox-0091-fibonacci)
